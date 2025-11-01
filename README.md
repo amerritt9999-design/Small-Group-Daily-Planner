@@ -7,7 +7,7 @@ This planner was created by **Just the Teacher in Me**, a brand devoted to helpi
 ---
 
 ## 🧭 Live Planner Access
-👉 **https://github.com/amerritt9999-design/Small-Group-Daily-Planner.git)**  
+👉 https://github.com/amerritt9999-design/Small-Group-Daily-Planner.git
 *(Replace the link above with your actual GitHub Pages URL once published.)*
 
 ---
